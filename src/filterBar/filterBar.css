@@ -1,0 +1,8 @@
+.select {
+    display: flex;
+    width: 300px;
+}
+
+.filterRow {
+    justify-items: center;
+}
